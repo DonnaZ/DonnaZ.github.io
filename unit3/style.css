@@ -7,8 +7,9 @@ body {
 
 h1 {
 	text-align: center;
-	font-family: "Indie Flower", sans-serif;
-	font-weight: 500; 
+	font-family: 'Indie Flower', cursive;
+	font-weight: 500;
+	font-size: 80px; 
 }
 
 div {
@@ -22,6 +23,10 @@ img {
 #slogan {
 	font-style: italic;
 	font-size: 25px;
+}
+
+ul {
+	list-style-type: none;
 }
 
 a {
