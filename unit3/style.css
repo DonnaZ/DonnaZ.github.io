@@ -1,4 +1,5 @@
 * { margin:0; padding:0; box-sizing:border-box; }
+<<<<<<< Updated upstream
 body {
 	background-color: #FFEFD5;
 	color:#800080;
@@ -16,16 +17,63 @@ h1 {
 
 img {
 	width: 25em;
+=======
+
+body {
+		background-color: #FFEFD5;
+		color:#800080;
+		font-family: 'Lato', sans-serif;
+		font-size: 16px;
+		text-align: center;
 }
 
+h1  {
+		text-align: center;
+		font-family: 'Tangerine', cursive;
+		font-weight: 500;
+		font-size: 5em;
+		padding: 20px;
+		margin: 15px; 
+}
+
+img {
+		width: 25em;
+}
+
+p {
+	text-align: center;
+	font-size: 1em;
+	padding: 10px;
+	margin: 10px;
+>>>>>>> Stashed changes
+}
+
+
 ul {
-	list-style-type: none;
+		list-style-type: none;
 }
 
 a {
-	color: #800080;
-	font-weight: bold;
-	text-decoration: none;
+		color: #800080;
+		font-weight: bold;
+		text-decoration: none;
+}
+
+#nav {
+		height: 40px;
+		background: #800080;
+		padding: 10px 20px; 
+}
+
+#nav li {
+		color: #FFEFD5;
+		display: inline;
+		padding: 10px 20px;
+}
+
+#slogan {
+		font-style: italic;
+		font-size: 1.5em;
 }
 
 #slogan {
