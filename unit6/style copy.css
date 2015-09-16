@@ -34,25 +34,30 @@ a {
 }
 
 address {
-  margin-left: 20em;
-  margin-top: 10em;
- }
-
-table {
-  border: transparent;
-  margin-right: 20em;
-  margin-bottom: 10em; 
-  float: right;
-  display: block;
+  position: absolute;
+  right: 70%;
+  margin-top: 200%;
+  margin-bottom: 400%;
 }
 
 footer {
   position: fixed;
   bottom: 0;
+  float: left;
+  clear: both;
+}
+
+#social {
+  position: absolute;
+  right: 50%;
+  margin-top: 200px;
+  margin-bottom: 400px;
 }
 
 #map {
-  padding-top: 1.5em;
-  margin-left: 20em;
+  position: absolute;
+  right: 30%;
+  margin-top: 200px;
+  margin-bottom: 400px;
 }
 
