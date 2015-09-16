@@ -13,7 +13,7 @@ h1 {
 img{
   display: block;
   margin: 0 auto;
-  width: 4em;
+  width: 40em;
 }
 
 nav {
@@ -39,7 +39,23 @@ a {
     text-decoration: none;
 }
 
+address {
+  position: absolute;
+  right: 70%;
+  margin-top: 200%;
+  margin-bottom: 400%;
+}
+
+
 footer {
   	position: fixed;
     bottom: 0;	
 }
+
+#social {
+  position: absolute;
+  right: 50%;
+  margin-top: 200px;
+  margin-bottom: 400px;
+}
+
