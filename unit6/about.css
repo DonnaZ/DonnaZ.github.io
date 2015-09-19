@@ -13,15 +13,18 @@ h1 {
 nav {
   background-color: transparent;
   padding: 10px 20px;
-  text-align: right;
+  position: absolute;
+  right: 50px;
+  top: 55px;
 }
 
 nav a {
   color: #000;
   padding: 10px 20px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: normal;
   display: inline;
+  font-size: 1.3em;
 }
 
 nav a:hover {
@@ -41,10 +44,8 @@ address {
 }
 
 footer {
-  position: fixed;
-  bottom: 0;
-  float: left;
-  clear: both;
+  position: absolute;
+  padding-left: 40px;
 }
 
 #social {

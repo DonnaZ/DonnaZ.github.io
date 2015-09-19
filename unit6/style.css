@@ -8,26 +8,32 @@ h1 {
   	font-size: 2.5em;
   	margin: 20px;
   	padding: 20px;
+    letter-spacing: 7px;
 }
 
 img{
   display: block;
   margin: 0 auto;
   width: 40em;
+  padding-top: 5em;
+  padding-bottom: 20em;
 }
 
 nav {
   	background-color: transparent;
   	padding: 10px 20px;
-  	text-align: right;
+  	position: absolute;
+    right: 50px;
+    top: 55px;
 }
 
 nav a {
 	color: #000;
 	padding: 10px 20px;
-	text-transform: uppercase;
+	text-transform: lowercase;
   font-weight: normal;
   display: inline;
+  font-size: 1.3em;
 }
 
 nav a:hover {
@@ -39,23 +45,7 @@ a {
     text-decoration: none;
 }
 
-address {
-  position: absolute;
-  right: 70%;
-  margin-top: 200%;
-  margin-bottom: 400%;
-}
-
-
 footer {
-  	position: fixed;
-    bottom: 0;	
+  	position: absolute;
+    padding-left: 40px;
 }
-
-#social {
-  position: absolute;
-  right: 50%;
-  margin-top: 200px;
-  margin-bottom: 400px;
-}
-
