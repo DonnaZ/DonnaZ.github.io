@@ -44,8 +44,10 @@ address {
 }
 
 footer {
-  position: absolute;
+  position: fixed;
   padding-left: 40px;
+  bottom: 0;
+
 }
 
 #social {
