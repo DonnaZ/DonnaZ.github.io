@@ -40,27 +40,27 @@ a {
 address {
   position: absolute;
   right: 70%;
-  margin-top: 15%;
+  margin-top: 20%;
   margin-bottom: 100%;
 }
 
 footer {
   position: fixed;
   padding-left: 40px;
-  bottom: 0;
+  bottom: 10px;
 
 }
 
 #social {
   position: absolute;
-  right: 40%;
-  margin-top: 200px;
+  right: 49%;
+  margin-top: 315px;
   margin-bottom: 100px;
 }
 
 #map {
   position: absolute;
-  right: 25%;
+  right: 20%;
   margin-top: 200px;
   margin-bottom: 100px;
 }
