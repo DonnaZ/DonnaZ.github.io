@@ -79,8 +79,21 @@ a {
 	img {
 		width: 100%;
 	}
-}
 
+	nav {
+		height: 60px;
+	}
+
+	nav a {
+		float: none;
+		width: auto;
+		display: none;
+	}
+
+	#mobilenav {
+		display: block;
+	}
+}
 
 @media only screen and (max-width: 320px) {
 	body {
@@ -95,10 +108,14 @@ a {
 		width: 100%;
 	}
 
+	nav {
+		height: 60px;
+	}
+
 	nav a {
-		display: none;
 		float: none;
 		width: auto;
+		display: none;
 	}
 
 	#mobilenav {
