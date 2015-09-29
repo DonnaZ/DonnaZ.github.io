@@ -61,3 +61,13 @@ a {
 	font-style: italic;
 	font-size: 1.5em;
 }
+
+@media only screen and (max-width: 320px) {
+	h1 {
+		width: 100%;
+	}
+
+	img {
+		width: 100%;
+	}
+}
