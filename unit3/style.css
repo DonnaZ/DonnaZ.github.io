@@ -57,6 +57,10 @@ a {
 	text-decoration: none;
 }
 
+section {
+	float: left;
+}
+
 #slogan {
 	font-style: italic;
 	font-size: 1.5em;
