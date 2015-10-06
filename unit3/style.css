@@ -12,6 +12,7 @@ section {
 nav {
 	background: #800080;
 	padding: .5em 1em;
+	text-align: center;
 }
 nav a {
 	color: #FFEFD5;
