@@ -17,6 +17,7 @@ nav a {
 	color: #FFEFD5;
 	display: inline-block;
 	padding: .5em 1em;
+	text-align: center;
 }
 div#splash {
 	background:url(../images/bookshelve.jpg);
@@ -31,6 +32,10 @@ h1  {
 	font-size: 5em;
 	padding: 20px;
 	margin: 15px; 
+}
+
+h2{
+	text-align: center;
 }
 
 p {
