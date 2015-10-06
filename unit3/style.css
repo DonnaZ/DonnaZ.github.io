@@ -44,7 +44,7 @@ p {
 }
 
 aside{
-	float: right;
+	
 }
 
 ul {
@@ -59,6 +59,7 @@ a {
 
 section {
 	float: left;
+	width: 70%;
 }
 
 #slogan {
