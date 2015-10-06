@@ -17,7 +17,6 @@ nav a {
 	color: #FFEFD5;
 	display: inline-block;
 	padding: .5em 1em;
-	text-align: center;
 }
 div#splash {
 	background:url(../images/bookshelve.jpg);
@@ -37,6 +36,7 @@ h1  {
 h2{
 	text-align: center;
 }
+
 
 p {
 	text-align: center;
@@ -63,6 +63,10 @@ a {
 
 #mobilenav {
 	display: none;
+}
+
+#bookcover {
+	float: left;
 }
 
 @media only screen and (max-width: 480px) {
