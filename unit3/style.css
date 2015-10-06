@@ -37,6 +37,11 @@ h2{
 	text-align: center;
 }
 
+h3{
+	text-align: center;
+	padding: .5em;
+}
+
 p {
 	font-size: 1em;
 	padding: 10px;
@@ -45,6 +50,11 @@ p {
 
 aside{
 	
+}
+
+form {
+	text-align: center;
+	padding: 1em;
 }
 
 ul {
@@ -77,6 +87,10 @@ section {
 	margin-left: 1.2em;
 	margin-top: 1.5em;
 
+}
+
+#weeklycover {
+	padding-left: 8em;
 }
 
 @media only screen and (max-width: 480px) {
