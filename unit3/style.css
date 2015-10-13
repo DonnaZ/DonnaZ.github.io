@@ -199,6 +199,16 @@ footer {
 
 }
 
+@media only screen and (max-width: 987px) {
+	aside{
+		height: 1913px;
+	}
+
+	#socialmedia {
+		padding-left: 5em;
+	}
+}
+
 
 @media only screen and (max-width: 962px) {
 	body {
