@@ -89,11 +89,12 @@ a {
 }
 
 #socialmedia {
-	padding-left: 6em;
+	position: relative;
+	left: 35%;
 }
 
 #currentreads {
-	padding-left: 3em;
+	padding-left: 2em;
 }
 
 .clearfix:after, .wrapper:after { 
