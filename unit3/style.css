@@ -84,22 +84,18 @@ a {
 	margin:1.5em 1em 0 1.2em;
 }
 
-#weeklycover {
-	position: relative;
-	top: 40em;
-}
-#thehouse {
-	padding-left: 6em;
-}
-
 #socialmedia {
 	position: relative;
 	left: 35%;
 }
 
+#newsletter {
+
+}
+
 #currentreads {
 	position: relative;
-	top: 30em;
+	top: 20em;
 }
 
 #kingcover {
@@ -110,8 +106,12 @@ a {
 	padding-left: 2em;
 }
 
-#newsletter {
-
+#weeklycover {
+	position: relative;
+	top: 35em;
+}
+#thehouse {
+	padding-left: 6em;
 }
 
 .clearfix:after, .wrapper:after { 
