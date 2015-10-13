@@ -155,6 +155,22 @@ footer {
 
 }
 
+@media only screen and (max-width: 1078px) {
+	#kingcover {
+		padding-left: 1.5em;
+	}
+
+	#thehouse {
+		padding-left: 5.5em;
+	}
+}
+
+@media only screen and (max-width: 1061px) {
+	aside {
+		height: 1847px;
+	}
+}
+
 @media only screen and (max-width: 1020px) {
 	aside {
 		height: 1870px;
