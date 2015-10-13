@@ -154,6 +154,26 @@ footer {
 	clear: both;
 
 }
+
+@media only screen and (max-width: 1020px) {
+	aside {
+		height: 1870px;
+	}
+	#kingcover {
+		padding-left: 1.5em;
+	}
+
+	#tyrantcover {
+		padding-left: 1em;
+	}
+
+	#thehouse {
+	padding-left: 5em;
+	}
+
+}
+
+
 @media only screen and (max-width: 962px) {
 	body {
 		font-size: 16px;
