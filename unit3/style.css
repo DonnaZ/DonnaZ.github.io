@@ -109,6 +109,7 @@ a {
 #quote {
 	position: relative;
 	text-align: center;
+	top: 13em;
 }
 
 #currentreads {
@@ -126,7 +127,7 @@ a {
 
 #weeklycover {
 	position: relative;
-	top: 35em;
+	top: 28em;
 }
 #thehouse {
 	padding-left: 6em;
