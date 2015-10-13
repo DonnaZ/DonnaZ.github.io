@@ -85,7 +85,6 @@ a {
 }
 
 #weeklycover {
-	padding-left: 6em;
 	position: relative;
 	top: 40em;
 }
@@ -99,6 +98,13 @@ a {
 	padding-left: 2em;
 }
 
+#newsletter {
+
+}
+
+#thehouse {
+	padding-left: 6em;
+}
 .clearfix:after, .wrapper:after { 
 	content: "."; 
 	visibility: hidden; 
