@@ -86,6 +86,8 @@ a {
 
 #weeklycover {
 	padding-left: 6em;
+	position: relative;
+	top: 40em;
 }
 
 #socialmedia {
