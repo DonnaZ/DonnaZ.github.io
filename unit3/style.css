@@ -88,9 +88,15 @@ footer {
 
 #intro {
 	text-align: center;
+	background-color: #D8BDD8;
 }
 #about {
 	text-align: center;
+	background-color: #FFFAFA
+}
+
+#blogs {
+	background-color: #E0BBE0;
 }
 
 #bookcover {
