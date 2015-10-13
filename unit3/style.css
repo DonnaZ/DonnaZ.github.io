@@ -27,6 +27,9 @@ aside{
 	float:left;
 	padding:2em;
 	width:38%;
+	background-color: #800080;
+	color: #FFF8DC;
+	height: 1825px;
 }
 div#splash {
 	background:url(../images/bookshelve.jpg);
@@ -64,6 +67,10 @@ a {
 	color: #800080;
 	font-weight: bold;
 	text-decoration: none;
+}
+
+footer {
+	text-align: center;
 }
 .wrapper {
 	max-width:60em;
