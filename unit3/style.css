@@ -87,12 +87,22 @@ a {
 #weeklycover {
 	padding-left: 6em;
 }
+
+.socialmedia {
+	padding-left: 6em;
+}
+
+.currentreads {
+	padding-left: 3em;
+}
+
 .clearfix:after, .wrapper:after { 
 	content: "."; 
 	visibility: hidden; 
 	display: block; 
 	height: 0; 
 	clear: both;
+
 }
 @media only screen and (max-width: 962px) {
 	body {
