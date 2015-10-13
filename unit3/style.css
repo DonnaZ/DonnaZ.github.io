@@ -79,6 +79,13 @@ a {
 	display: none;
 }
 
+#intro {
+	text-align: center;
+}
+#about {
+	text-align: center;
+}
+
 #bookcover {
 	float: left;
 	margin:1.5em 1em 0 1.2em;
@@ -87,10 +94,12 @@ a {
 #socialmedia {
 	position: relative;
 	left: 35%;
+	top: 1em;
 }
 
 #newsletter {
-
+	position: relative;
+	top: 7em;
 }
 
 #currentreads {
