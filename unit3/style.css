@@ -1,4 +1,4 @@
-* { margin:0; padding:0; box-sizing:border-box; border:1px solid red;}
+* { margin:0; padding:0; box-sizing:border-box; }
 
 body { 
 	background-color: #FFEFD5;
@@ -8,10 +8,13 @@ body {
 }
 main {
 	float:left;
-	width:62%;
+	margin:.5%;
+	width:65.66%;
 }
 section {
-	padding:5em 2em;
+	margin-bottom:2%;
+	padding:5em;
+	box-shadow:2px 2px 5px rgba(0,0,0,.4);
 }
 nav {
 	background: #800080;
@@ -25,11 +28,16 @@ nav a {
 }
 aside{
 	float:left;
+	margin:.5%;
 	padding:2em;
-	width:38%;
+	width:32.33%;
 	background-color: #800080;
 	color: #FFF8DC;
-	height: 1825px;
+	box-shadow:2px 2px 5px rgba(0,0,0,.4);
+	text-align:center;
+}
+footer {
+	text-align: center;
 }
 div#splash {
 	background:url(../images/bookshelve.jpg);
@@ -54,11 +62,19 @@ h3 {
 p {
 	margin: 0 0 1em 0;
 }
-form {
-	text-align: center;
-	padding: 1em;
+input {
+	float:left;
+	padding:1em 0;
+	text-align:center;
 }
-
+input[type="text"] {
+	color:rgba(128, 0, 128, .6);
+	width:66.66%;
+}
+input[type="submit"] {
+	background:#fff;
+	width:33.33%;
+}
 ul {
 	list-style-type: none;
 }
@@ -67,10 +83,6 @@ a {
 	color: #800080;
 	font-weight: bold;
 	text-decoration: none;
-}
-
-footer {
-	text-align: center;
 }
 .wrapper {
 	max-width:60em;
