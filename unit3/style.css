@@ -94,14 +94,11 @@ a {
 #socialmedia {
 	position: relative;
 	top: 1em;
-}
-
-#facebook {
-	padding-left: 3em;
+	padding-left: 6em;
 }
 
 #twitter {
-	padding-left: 3em;
+	padding-left: .5em;
 }
 
 #newsletter {
