@@ -93,8 +93,15 @@ a {
 
 #socialmedia {
 	position: relative;
-	left: 35%;
 	top: 1em;
+}
+
+#facebook {
+	padding-left: 3em;
+}
+
+#twitter {
+	padding-left: 3em;
 }
 
 #newsletter {
