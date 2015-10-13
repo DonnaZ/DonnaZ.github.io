@@ -88,6 +88,9 @@ a {
 	position: relative;
 	top: 40em;
 }
+#thehouse {
+	padding-left: 6em;
+}
 
 #socialmedia {
 	position: relative;
@@ -95,6 +98,15 @@ a {
 }
 
 #currentreads {
+	position: relative;
+	top: 30em;
+}
+
+#kingcover {
+	padding-left: 2em;
+}
+
+#tyrantcover {
 	padding-left: 2em;
 }
 
@@ -102,9 +114,6 @@ a {
 
 }
 
-#thehouse {
-	padding-left: 6em;
-}
 .clearfix:after, .wrapper:after { 
 	content: "."; 
 	visibility: hidden; 
