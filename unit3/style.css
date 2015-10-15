@@ -117,9 +117,7 @@ a {
 }
 
 #socialmedia {
-	position: relative;
-	top: 1em;
-	padding-left: 6em;
+	margin-top: 1em;
 }
 
 #twitter {
@@ -165,83 +163,4 @@ a {
 	height: 0; 
 	clear: both;
 
-}
-
-@media only screen and (max-width: 1078px) {
-	#kingcover {
-		padding-left: 1.5em;
-	}
-
-	#thehouse {
-		padding-left: 5.5em;
-	}
-}
-
-@media only screen and (max-width: 1061px) {
-	aside {
-		height: 1847px;
-	}
-}
-
-@media only screen and (max-width: 1053px) {
-	aside {
-		height: 1869px;
-	}
-	#kingcover {
-		padding-left: 1.3em;
-	}
-
-}
-
-@media only screen and (max-width: 1020px) {
-	aside {
-		height: 1870px;
-	}
-	#kingcover {
-		padding-left: 1.5em;
-	}
-
-	#tyrantcover {
-		padding-left: 1em;
-	}
-
-	#thehouse {
-	padding-left: 5em;
-	}
-
-}
-
-@media only screen and (max-width: 987px) {
-	aside{
-		height: 1913px;
-	}
-
-	#socialmedia {
-		padding-left: 5em;
-	}
-}
-
-
-@media only screen and (max-width: 962px) {
-	body {
-		font-size: 16px;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
-	nav {
-		height: 60px;
-	}
-
-	nav a {
-		float: none;
-		width: auto;
-		display: none;
-	}
-
-	#mobilenav {
-		display: block;
-	}
 }
