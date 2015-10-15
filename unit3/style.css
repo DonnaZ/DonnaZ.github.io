@@ -38,6 +38,9 @@ aside{
 }
 footer {
 	text-align: center;
+	background-color: #D8BFD8;
+	margin: 1em;
+	padding: 1em;
 }
 div#splash {
 	background:url(../images/bookshelve.jpg);
@@ -139,11 +142,11 @@ a {
 }
 
 #kingcover {
-	padding-left: 2em;
+	
 }
 
 #tyrantcover {
-	padding-left: 2em;
+	
 }
 
 #weeklycover {
