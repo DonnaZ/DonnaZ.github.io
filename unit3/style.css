@@ -41,7 +41,7 @@ footer {
 	text-align: center;
 	background-color: #D8BFD8;
 	margin: 1em;
-	padding: .5em;
+	padding: .2em;
 }
 div#splash {
 	background:url(../images/bookshelve.jpg);
@@ -144,11 +144,13 @@ a {
 }
 
 #kingcover {
-	
+	margin-right: .5em;
+	box-shadow:2px 2px 5px rgba(0,0,0,.4);
 }
 
 #tyrantcover {
-	
+	margin-left: .3em;
+	box-shadow:2px 2px 5px rgba(0,0,0,.4);
 }
 
 #weeklycover {
@@ -156,6 +158,7 @@ a {
 }
 #thehouse {
 	padding-left: .5em;
+	box-shadow:2px 2px 5px rgba(0,0,0,.4);
 }
 
 .clearfix:after, .wrapper:after { 
