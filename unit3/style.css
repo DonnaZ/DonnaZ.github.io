@@ -20,6 +20,7 @@ nav {
 	background: #800080;
 	padding: .5em 1em;
 	text-align: center;
+	margin-top: .5em;
 }
 nav a {
 	color: #FFEFD5;
@@ -40,7 +41,7 @@ footer {
 	text-align: center;
 	background-color: #D8BFD8;
 	margin: 1em;
-	padding: 1em;
+	padding: .5em;
 }
 div#splash {
 	background:url(../images/bookshelve.jpg);
@@ -55,6 +56,7 @@ h1  {
 	font-family: 'Tangerine', cursive;
 	font-weight: 500;
 	font-size: 5em;
+	margin-top: .2em;
 }
 
 h3 {
