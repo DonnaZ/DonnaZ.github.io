@@ -110,10 +110,6 @@ a {
 	text-align: center;
 }
 
-#mobilenav {
-	display: none;
-}
-
 #intro {
 	text-align: center;
 	background-color: #D8BDD8;
@@ -177,7 +173,38 @@ a {
 	box-shadow:2px 2px 5px rgba(0,0,0,.4);
 	cursor: pointer;
 }
-
+.mobile-nav {
+	display: none;
+}
+.menu-btn div {
+	position: absolute;
+	left: 100%;
+	top: 64%;
+	padding-right: 8px;
+	margin-top: -0.50em;
+	line-height: 1.2;
+	font-size: 18px;
+	font-weight: 200;
+	vertical-align: middle;
+	z-index: 99;
+}
+ 
+.menu-btn span {
+	display: block;
+	width: 19px;
+	height: 3px;
+	margin: 4px 0;
+	background: rgb(0,0,0);
+	z-index: 99;
+}
+ 
+.responsive-menu{
+	display: none;
+}
+ 
+.expand {
+	display: block !important;
+}
 .clearfix:after, .wrapper:after { 
 	content: "."; 
 	visibility: hidden; 
@@ -187,15 +214,12 @@ a {
 
 }
 
-@media only screen and (max-width: 926px) {
-	header {
-		width: 95%;
+@media only screen and (max-width: 945px) and (min-width:641px) {
+	nav {
+		display:none;
 	}
-	aside {
-		width: 30%;
-	}
-	main {
-		width: 60%;
+	.mobile-nav {
+		display:block;
 	}
 }
 
