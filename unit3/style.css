@@ -82,8 +82,9 @@ input {
 	text-align:center;
 }
 input[type="text"] {
-	color:rgba(128, 0, 128, .6);
 	width:66.66%;
+	color: #800080;
+
 }
 input[type="submit"] {
 	background:#fff;
