@@ -189,7 +189,13 @@ a {
 
 @media only screen and (max-width: 926px) {
 	header {
-		width: 100%;
+		width: 25%;
+	}
+	aside {
+		width: 30%;
+	}
+	main {
+		width: 60%;
 	}
 }
 
