@@ -20,7 +20,6 @@ nav {
 	background: #800080;
 	padding: .5em 1em;
 	text-align: center;
-	margin: .5em 10em 0 10.3em;
 
 }
 nav a {
@@ -54,7 +53,6 @@ div#splash {
 	background-repeat: no-repeat;
 	background-size:cover;
 	height:50vh;
-	margin: .3em 10em 0 10.3em;
 }
 h1, h2, h3, h4, h5, h6 {
 	text-align:center;
@@ -87,7 +85,6 @@ input[type="text"] {
 
 }
 input[type="submit"] {
-	background:#fff;
 	width:33.33%;
 	cursor: pointer;
 	background-color: #D8BDD8;
@@ -187,5 +184,9 @@ a {
 	display: block; 
 	height: 0; 
 	clear: both;
+
+}
+
+@media screen and (max-width: 962px) {
 
 }
