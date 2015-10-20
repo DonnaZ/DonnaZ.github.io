@@ -187,6 +187,11 @@ a {
 
 }
 
-@media screen and (max-width: 962px) {
-
+@media only screen and (max-width: 989px) {
+	aside {
+		width: 30%;
+	}
+	#wrapper {
+		width: 70%;
+	}
 }
