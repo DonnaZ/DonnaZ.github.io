@@ -89,6 +89,8 @@ input[type="submit"] {
 	background:#fff;
 	width:33.33%;
 	cursor: pointer;
+	background-color: #D8BDD8;
+	color: #800080;
 }
 ul {
 	list-style-type: none;
