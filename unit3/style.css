@@ -132,8 +132,7 @@ a {
 
 #bookcover {
 	float: left;
-	margin-right: 1em;
-	margin-bottom: 1em;
+	margin: .2em 1em 1em 0;
 }
 
 #socialmedia {
