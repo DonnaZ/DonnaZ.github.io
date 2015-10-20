@@ -188,7 +188,7 @@ a {
 }
 
 @media only screen and (max-width: 926px) {
-	nav {
+	header {
 		width: 100%;
 	}
 }
