@@ -20,7 +20,8 @@ nav {
 	background: #800080;
 	padding: .5em 1em;
 	text-align: center;
-	margin-top: .5em;
+	margin: .5em 10em 0 10.3em;
+
 }
 nav a {
 	color: #FFEFD5;
@@ -40,7 +41,7 @@ aside{
 footer {
 	text-align: center;
 	background-color: #D8BFD8;
-	margin: 1em;
+	margin: 1em 10.3em 1em 10.3em;
 	padding: .2em;
 }
 div#splash {
@@ -48,6 +49,7 @@ div#splash {
 	background-repeat: no-repeat;
 	background-size:cover;
 	height:50vh;
+	margin: .3em 10em 0 10.3em;
 }
 h1, h2, h3, h4, h5, h6 {
 	text-align:center;
@@ -80,6 +82,7 @@ input[type="text"] {
 input[type="submit"] {
 	background:#fff;
 	width:33.33%;
+	cursor: pointer;
 }
 ul {
 	list-style-type: none;
@@ -89,6 +92,7 @@ a {
 	color: #800080;
 	font-weight: bold;
 	text-decoration: none;
+	cursor: pointer;
 }
 .wrapper {
 	max-width:60em;
@@ -129,6 +133,11 @@ a {
 
 #twitter {
 	padding-left: .5em;
+	cursor: pointer;
+}
+
+#facebook {
+	cursor: pointer;
 }
 
 #newsletter {
@@ -146,11 +155,13 @@ a {
 #kingcover {
 	margin-right: .5em;
 	box-shadow:2px 2px 5px rgba(0,0,0,.4);
+	cursor: pointer;
 }
 
 #tyrantcover {
 	margin-left: .3em;
 	box-shadow:2px 2px 5px rgba(0,0,0,.4);
+	cursor: pointer;
 }
 
 #weeklycover {
@@ -159,6 +170,7 @@ a {
 #thehouse {
 	padding-left: .5em;
 	box-shadow:2px 2px 5px rgba(0,0,0,.4);
+	cursor: pointer;
 }
 
 .clearfix:after, .wrapper:after { 
