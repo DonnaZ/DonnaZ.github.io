@@ -229,12 +229,28 @@ a {
 	}
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 640px) and (min-width: 400px) {
 	main {
 		width: 100%;
 	}
 	aside {
 		width: 100%;
 	}
-}
+
+	nav {
+		display:none;
+	}
+	nav a {
+	color: #FFEFD5;
+	display: inline-block;
+	padding: .5em 1em;
+	}
+	.mobile-nav {
+		display:block;
+		background-color: #800080;
+		padding: 1em;
+		position: absolute;
+	}
+
+
 
