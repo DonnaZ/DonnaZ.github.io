@@ -44,7 +44,7 @@ aside{
 }
 footer {
 	text-align: center;
-	background-color: #D8BFD8;
+	background-color: #800080;
 	padding: .2em;
 	margin: 2em 0 2em 0;
 }
@@ -95,7 +95,7 @@ ul {
 }
 
 a {
-	color: #800080;
+	color: #FFEFD5;
 	font-weight: bold;
 	text-decoration: none;
 	cursor: pointer;
