@@ -192,7 +192,7 @@ a {
 	width: 19px;
 	height: 3px;
 	margin: 4px 0;
-	background: rgba(80,00,80,.7);
+	background: #FFEFD5;
 	z-index: 99;
 }
  
@@ -220,10 +220,11 @@ a {
 	color: #FFEFD5;
 	display: inline-block;
 	padding: .5em 1em;
+
 	}
 	.mobile-nav {
 		display:block;
-		background-color: #800080;
+		background: rgba(80,00,80,.7);
 		padding: 1em;
 		position: absolute;
 	}
