@@ -250,6 +250,9 @@ a {
 	display: inline-block;
 	padding: .5em 1em;
 	}
+	section {
+		padding: 5em 2em 5em 2em;
+	}
 	.mobile-nav {
 		display:block;
 		background: rgba(80,00,80,.7);
@@ -274,6 +277,15 @@ a {
 	display: inline-block;
 	padding: .5em 1em;
 	}
+	.menu-btn span {
+	display: block;
+	width: 19px;
+	height: 3px;
+	margin: 4px 0;
+	margin-left: 50%;
+	background: #FFEFD5;
+	z-index: 99;
+	}
 	.mobile-nav {
 	display:block;
 	background: rgba(80,00,80,.7);
@@ -281,14 +293,6 @@ a {
 	position: absolute;
 	width: 100%;
 	}
-	.menu-btn span {
-	display: block;
-	width: 19px;
-	height: 3px;
-	margin: 4px 0;
-	background: #FFEFD5;
-	z-index: 99;
-}
 
 }
 
