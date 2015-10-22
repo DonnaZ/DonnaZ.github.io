@@ -277,9 +277,6 @@ a {
 	display: inline-block;
 	padding: .5em 1em;
 	}
-	a {
-		text-align: center;
-	}
 	.menu-btn span {
 	display: block;
 	width: 19px;
@@ -296,6 +293,11 @@ a {
 	position: absolute;
 	width: 100%;
 	}
+	.expand {
+	display: block !important;
+	margin-top: 1em;
+	text-align: center;
+}
 
 }
 
