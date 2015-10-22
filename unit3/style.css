@@ -44,7 +44,7 @@ aside{
 }
 footer {
 	text-align: center;
-	background-color: #800080;
+	background-color: #DE95DE;
 	padding: .2em;
 	margin: 2em 0 2em 0;
 }
@@ -221,6 +221,12 @@ a {
 	display: inline-block;
 	padding: .5em 1em;
 
+	}
+	section {
+		padding: 0 2em 0 2em;
+	}
+	aside {
+		width: 50%;
 	}
 	.mobile-nav {
 		display:block;
