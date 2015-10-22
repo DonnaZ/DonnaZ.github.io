@@ -257,7 +257,38 @@ a {
 		position: absolute;
 	}
 
+@media only screen and (max-width: 433px) and (min-width: 400px) {
 
+	main {
+		width: 100%;
+	}
+	aside {
+		width: 100%;
+	}
+
+	nav {
+		display:none;
+	}
+	nav a {
+	color: #FFEFD5;
+	display: inline-block;
+	padding: .5em 1em;
+	}
+	.mobile-nav {
+	display:block;
+	background: rgba(80,00,80,.7);
+	padding: 1em;
+	position: absolute;
+	width: 100%;
+	}
+	.menu-btn span {
+	display: block;
+	width: 19px;
+	height: 3px;
+	margin: .5% 50%;
+	background: #FFEFD5;
+	z-index: 99;
+}
 
 }
 
