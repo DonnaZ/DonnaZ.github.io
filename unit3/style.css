@@ -285,7 +285,7 @@ a {
 	display: block;
 	width: 19px;
 	height: 3px;
-	margin: .5% 50%;
+	margin: 4px 0;
 	background: #FFEFD5;
 	z-index: 99;
 }
