@@ -234,7 +234,7 @@ a {
 	}
 }
 
-@media only screen and (max-width: 640px) and (min-width: 434px) {
+@media only screen and (max-width: 640px) and (min-width: 400px) {
 	main {
 		width: 100%;
 	}
@@ -257,7 +257,7 @@ a {
 		position: absolute;
 	}
 
-@media only screen and (max-width: 433px) and (min-width: 400px) {
+
 
 }
 
