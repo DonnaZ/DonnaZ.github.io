@@ -202,6 +202,7 @@ a {
  
 .expand {
 	display: block !important;
+	margin-top: 1em;
 }
 .clearfix:after, .wrapper:after { 
 	content: "."; 
@@ -223,10 +224,7 @@ a {
 
 	}
 	section {
-		padding: 0 2em 0 2em;
-	}
-	aside {
-		width: 50%;
+		padding: 5em 2em 5em 2em;
 	}
 	.mobile-nav {
 		display:block;
