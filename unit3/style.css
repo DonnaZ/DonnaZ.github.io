@@ -152,13 +152,11 @@ a {
 }
 
 #kingcover {
-	margin-right: .5em;
 	box-shadow:2px 2px 5px rgba(0,0,0,.4);
 	cursor: pointer;
 }
 
 #tyrantcover {
-	margin-left: .3em;
 	box-shadow:2px 2px 5px rgba(0,0,0,.4);
 	cursor: pointer;
 }
