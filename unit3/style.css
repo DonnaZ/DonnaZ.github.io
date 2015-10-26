@@ -273,10 +273,10 @@ a {
 @media only screen and (max-width: 500px) and (min-width: 320px) and (orientation:portrait) {
 
 	main {
-		width: 50%;
+		width: 100%;
 	}
 	aside {
-		width: 50%;
+		width: 100%;
 	}
 
 	nav {
