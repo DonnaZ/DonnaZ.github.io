@@ -270,7 +270,7 @@ a {
 	}
 }
 
-@media only screen and (max-width: 480px) {
+/*@media only screen and (max-width: 480px) {
 
 	main {
 		width: 100%;
@@ -281,7 +281,6 @@ a {
 
 	nav {
 		display:none;
-		width: 100%;
 	}
 	nav a {
 	color: #FFEFD5;
@@ -310,5 +309,5 @@ a {
 	text-align: center;
 	}
 
-}
+}*/
 
