@@ -271,17 +271,17 @@ a {
 	font-size: 4em;
 	margin-top: .2em;
 	text-shadow: 2px 2px #A0A0A0;
-}
+	}
 }
 
 
 @media only screen and (max-width: 480px) and (min-width: 320px) and (orientation:portrait) {
 
 	main {
-		width: 100%;
+		width: 98%;
 	}
 	aside {
-		width: 100%;
+		width: 98%;
 	}
 
 	nav {
