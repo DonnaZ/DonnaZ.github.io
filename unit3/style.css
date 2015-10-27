@@ -270,7 +270,7 @@ a {
 	}
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-width: 480px) {
 
 	main {
 		width: 100%;
@@ -281,6 +281,7 @@ a {
 
 	nav {
 		display:none;
+		height: 100%;
 	}
 	nav a {
 	color: #FFEFD5;
