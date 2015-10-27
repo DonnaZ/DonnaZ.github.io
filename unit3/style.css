@@ -212,13 +212,6 @@ a {
 }
 
 @media only screen and (max-width: 945px) and (min-width:641px) {
-	main {
-		width: 100%;
-	}
-	aside {
-		width: 100%;
-	}
-
 	nav {
 		display:none;
 	}
@@ -258,26 +251,28 @@ a {
 	section {
 		padding: 5em 2em 5em 2em;
 	}
+	.menu-btn span {
+	display: block;
+	width: 19px;
+	height: 3px;
+	margin: 4px 0;
+	margin-left: 48%;
+	background: #FFEFD5;
+	z-index: 99;
+	}
 	.mobile-nav {
 		display:block;
 		background: rgba(80,00,80,.7);
 		padding: 1em;
 		position: absolute;
 	}
-
-@media only screen and (max-width: 989px) and (min-width: 641px) {
-	#kingcover {
-	box-shadow:2px 2px 5px rgba(0,0,0,.4);
-	cursor: pointer;
-}
-
-	#tyrantcover {
-	box-shadow:2px 2px 5px rgba(0,0,0,.4);
-	cursor: pointer;
+	.expand {
+	display: block !important;
+	margin-top: 1em;
+	text-align: center;
 	}
-}
 
-@media only screen and (max-width: 480px) {
+/*@media only screen and (max-width: 480px) and (max-device-width: 480px) and (orientation:portrait){
 
 	main {
 		width: 100%;
