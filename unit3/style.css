@@ -212,6 +212,13 @@ a {
 }
 
 @media only screen and (max-width: 945px) and (min-width:641px) {
+	main {
+		width: 100%;
+	}
+	aside {
+		width: 100%;
+	}
+
 	nav {
 		display:none;
 	}
