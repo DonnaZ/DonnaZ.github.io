@@ -265,7 +265,13 @@ a {
 	}
 
 @media only screen and (max-width: 433px) and (min-width: 320px) {
-
+	h1  {
+	font-family: 'Tangerine', cursive;
+	font-weight: 500;
+	font-size: 4em;
+	margin-top: .2em;
+	text-shadow: 2px 2px #A0A0A0;
+}
 }
 
 
