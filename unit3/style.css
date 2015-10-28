@@ -283,6 +283,8 @@ a {
 	}
 	aside {
 		width: 98%;
+		margin: auto;
+		float: none;
 	}
 
 	nav {
