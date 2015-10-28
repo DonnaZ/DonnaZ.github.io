@@ -282,9 +282,14 @@ a {
 		overflow: auto;
 	}
 
+	h1:hover {
+		color: #fff;
+	}
+
 	main {
 		width: 98%;
 	}
+
 	aside {
 		width: 98%;
 	}
