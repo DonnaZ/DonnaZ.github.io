@@ -213,6 +213,18 @@ a {
 
 }
 
+@media only screen and (max-width: 1440px) and (min-width: 946px) {
+	a {
+	color: #800080;
+	font-weight: bold;
+	text-decoration: none;
+	cursor: pointer;
+	}
+	a:hover {
+		background-color: transparent;
+	}
+}
+
 @media only screen and (max-width: 945px) and (min-width:641px) {
 	nav {
 		display:none;
@@ -227,11 +239,11 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 	cursor: pointer;
-}
+	}
 	a:hover {
 		background-color: transparent;
 	}
-	
+
 	section {
 		padding: 5em 2em 5em 2em;
 	}
@@ -265,7 +277,7 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 	cursor: pointer;
-}
+	}
 	a:hover {
 		background-color: transparent;
 	}
@@ -277,7 +289,7 @@ a {
 	background-color: #DE95DE;
 	padding: 2em;
 	margin: 2em 0 0 0;
-}
+	}
 	.mobile-nav {
 		display:block;
 		background: rgba(80,00,80,.7);
@@ -323,7 +335,7 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 	cursor: pointer;
-}
+	}
 	a:hover {
 		background-color: transparent;
 	}
