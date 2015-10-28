@@ -278,13 +278,15 @@ a {
 
 @media only screen and (max-width: 480px) and (min-width: 320px) and (orientation:portrait) {
 
+	body {
+		overflow: hidden;
+	}
+
 	main {
 		width: 98%;
 	}
 	aside {
 		width: 98%;
-		margin: auto;
-		float: none;
 	}
 
 	nav {
