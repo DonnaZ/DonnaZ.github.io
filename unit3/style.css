@@ -184,6 +184,7 @@ a {
 	font-weight: 200;
 	vertical-align: middle;
 	z-index: 99;
+	cursor: pointer;
 }
  
 .menu-btn span {
