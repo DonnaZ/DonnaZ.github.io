@@ -279,12 +279,6 @@ a {
 
 @media only screen and (max-width: 480px) and (min-width: 320px) and (orientation:portrait) {
 
-	body, html {
-		width: 100%;
-		height: 3000px;
-		overflow: hidden;
-	}
-
 	main {
 		width: 98%;
 	}
