@@ -218,7 +218,9 @@ a {
 	display: inline-block;
 	padding: .5em 1em;
 	}
-
+	li {
+		margin-top: .5em;
+	}
 	section {
 		padding: 5em 2em 5em 2em;
 	}
@@ -245,6 +247,9 @@ a {
 	color: #FFEFD5;
 	display: inline-block;
 	padding: .5em 1em;
+	}
+	li {
+		margin-top: .5em;
 	}
 	section {
 		padding: 5em 2em 5em 2em;
@@ -295,6 +300,10 @@ a {
 		color: #FFEFD5;
 		display: inline-block;
 		padding: .5em 1em;
+	}
+
+	li {
+		margin-top: .5em;
 	}
 
 	footer {
