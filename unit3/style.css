@@ -305,6 +305,9 @@ a {
 	text-decoration: none;
 	cursor: pointer;
 }
+	h1:hover {
+		background-color: transparent;
+	}
 
 	footer {
 	text-align: center;
