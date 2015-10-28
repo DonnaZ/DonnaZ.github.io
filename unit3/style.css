@@ -58,6 +58,14 @@ h1, h2, h3, h4, h5, h6 {
 	text-align:center;
 }
 
+h1  {
+	font-family: 'Tangerine', cursive;
+	font-weight: 500;
+	font-size: 5em;
+	margin-top: .2em;
+	text-shadow: 2px 2px #A0A0A0;
+}
+
 h3 {
 	font-family: 'Tangerine', cursive;
 	font-size: 2em;
@@ -96,15 +104,6 @@ a {
 .wrapper {
 	max-width:60em;
 	margin:auto;
-}
-
-.rr {
-	font-family: 'Tangerine', cursive;
-	font-weight: 500;
-	font-size: 5em;
-	margin-top: .2em;
-	text-shadow: 2px 2px #A0A0A0;
-	}
 }
 #slogan {
 	font-style: italic;
