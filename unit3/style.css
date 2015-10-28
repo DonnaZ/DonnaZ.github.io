@@ -295,10 +295,17 @@ a {
 		display:none;
 	}
 	nav a {
-	color: #FFEFD5;
-	display: inline-block;
-	padding: .5em 1em;
+		color: #FFEFD5;
+		display: inline-block;
+		padding: .5em 1em;
 	}
+	a {
+	color: #800080;
+	font-weight: bold;
+	text-decoration: none;
+	cursor: pointer;
+}
+
 	footer {
 	text-align: center;
 	background-color: #DE95DE;
