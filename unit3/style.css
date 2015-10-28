@@ -308,15 +308,15 @@ a {
 
 	body {
 		overflow: auto;
+		color: #800080;
 	}
 
 	h1  {
 	font-family: 'Tangerine', cursive;
 	font-weight: 500;
-	font-size: 5em;
+	font-size: 4em;
 	margin-top: .2em;
 	text-shadow: 2px 2px #A0A0A0;
-	color: #800080;
 }
 
 	main {
